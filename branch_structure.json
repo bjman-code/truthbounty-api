@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-635-prewave-be-040-sign-and-validate-opaque"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-635-prewave-be-040-sign-and-validate-opaque": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-635-prewave-be-040-sign-and-validate-opaque"
+  ]
+}
